@@ -1,6 +1,4 @@
-Data Science Project Proposal
-Title: TBD
-Question – Possibility of heart disease diagnosis based on maximum heart rate achieved (thalach) and ST depression induced by exercise relative to rest (oldpeak)
-Dataset – The data set used in this project is taken from … Heart Disease which has data ollected during …. In this data, there are bla bla heart diseases, each having 14 different properties:
-	List 14 properties
-After this, pose your question.
+Title: Predict heart disease classification level based on age, sex, maximum heart rate achieved and ST depression induced by exercise relative to rest.
+
+Introduction
+The data set Heart Disease Switzerland will be used. The processed dataset is available on github. The purpose of analysis of this project is to explore the relationship between age, sex, maximum heart rate achieved by the patient and ST depression induced by exercise relative to rest. The classifier used in this project will predict the presence of heart disease on the basis of these 4 factors.
